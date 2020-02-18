@@ -1,0 +1,10 @@
+#lang racket
+
+(require "utilities.rkt")
+
+(define assign #hash())
+
+; Fill in your code here. Should finally define a function
+; called dpll which returns true or false. Should additionally
+; store the satisfying assignment in the variable assign.
+

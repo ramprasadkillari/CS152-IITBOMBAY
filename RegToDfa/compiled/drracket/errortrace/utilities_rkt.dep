@@ -1,0 +1,1 @@
+("6.11" ("b3fdfc54b50ce32e8d8343af4c8ca4302b34e522" . "b4a1d17e454cde33a996a3407ff8c295ccf41c3d") #"/home/ramprasad/your-roll-no/declarations.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"parser-tools" #"yacc.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
